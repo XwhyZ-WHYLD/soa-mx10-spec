@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20103197.svg)](https://doi.org/10.5281/zenodo.20103197)
 # SOΛ-MX10 v3.0
 
 **Deterministic Execution-Control Protocol for AI-Orchestrated Systems**
