@@ -116,11 +116,10 @@ The omitted material is held as trade secret or reserved for restricted continua
 
 ## Citation
 
-If you reference SOΛ-MX10 in academic, policy, or technical work:
-
-> XWHYZ Research / WHYLD. *SOΛ-MX10: Deterministic Execution-Control Protocol for AI-Orchestrated Systems, v3.0.* 2026. https://github.com/XwhyZ-WHYLD/soa-mx10-spec
-
-A DOI-archived snapshot may be registered separately — see [`CHANGELOG.md`](CHANGELOG.md) for canonical version pointers.
+> Roshan George, Thomas. *SOΛ-MX10: Deterministic Execution-Control Protocol 
+> for AI-Orchestrated Systems.* XWHYZ Research / WHYLD, 2026.  
+> DOI: [10.5281/zenodo.20103197](https://doi.org/10.5281/zenodo.20103197)  
+> GitHub: https://github.com/XwhyZ-WHYLD/soa-mx10-spec
 
 ---
 
