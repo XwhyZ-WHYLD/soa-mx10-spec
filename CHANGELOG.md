@@ -8,8 +8,8 @@ This project follows [Semantic Versioning](https://semver.org/) at the protocol 
 - **PATCH** — clarifications and editorial fixes
 
 ## [3.0.0] — 2026
-
-First public stable release of the specification.
+- Zenodo DOI: https://doi.org/10.5281/zenodo.20103197
+- First public stable release of the specification.
 
 ### Added
 - Public specification of the seven-phase verification sequence (SYNC → VERIFY → ENHANCE → PLAN → EXECUTE → ATTEST → AUDIT)
@@ -31,7 +31,6 @@ First public stable release of the specification.
 
 ### Notes
 - v3.x is the first interoperable wire-level specification. Internal v1 and v2 are not interoperable with v3.x and are not supported.
-- A USPTO provisional application covering the underlying invention was prepared by the inventor prior to public disclosure of this specification.
 
 ---
 
